@@ -1,5 +1,6 @@
 # Assembly Image Processing
 
+![logo](assembly-2.png)
 This GitHub repository contains assembly code for performing image processing tasks. The code is designed to manipulate image files, specifically in the BMP (bitmap) format. It provides functionality for opening, reading, modifying, and saving BMP image files.
 
 ## Table of Contents
